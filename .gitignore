@@ -1,0 +1,19 @@
+# Compiled class file
+*.class
+
+# Add any directories, files, or patterns you don't want to be tracked by version control
+*.iml
+*.idea/
+target/
+.settings/
+gradlew
+gradlew.bat
+.gradle
+gradle
+.project
+.springBeans
+.classpath
+dump.rdb
+build/
+data/
+*.log
